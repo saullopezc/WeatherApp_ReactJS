@@ -11,7 +11,7 @@
     "husky": "^4.2.5",
     "lint-staged": "^10.2.6",
     "lodash.topairs": "^4.3.0",
-    "moment": "^2.26.0",
+    "moment": "^2.29.4",
     "prettier": "^2.0.5",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
